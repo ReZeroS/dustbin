@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1511954204 source:g:\vsprojects\tinydata\src\global.cpp
+	<iostream>
+	<cstring>
+	<io.h>
+	"util.h"
+	"global.h"
+
+1509536083 g:\vsprojects\tinydata\include\global.h
+	<cstdio>
+	<conio.h>
+
+1507718958 source:g:\vsprojects\tinydata\src\home.cpp
+	"home.h"
+
+1507718958 g:\vsprojects\tinydata\include\home.h
+
+1511956189 source:g:\vsprojects\tinydata\src\util.cpp
+	<fstream>
+	<sstream>
+	<iostream>
+	<cstdio>
+	<string>
+	<cstdlib>
+	<iomanip>
+	<direct.h>
+	"user.h"
+	"util.h"
+	"field.h"
+	"control.h"
+	"sqlmain.h"
+
+1511595950 g:\vsprojects\tinydata\include\util.h
+	<regex>
+	<string>
+	<vector>
+	"field.h"
+
+1511956264 source:g:\vsprojects\tinydata\src\main.cpp
+	<regex>
+	<vector>
+	<string>
+	<iostream>
+	"util.h"
+	"field.h"
+	"global.h"
+	"control.h"
+	"sqlmain.h"
+
+1511870994 g:\vsprojects\tinydata\include\sqlmain.h
+	<regex>
+	<string>
+
+1511955956 source:g:\vsprojects\tinydata\src\rogex.cpp
+	<regex>
+	<iostream>
+	"util.h"
+	"rogex.h"
+	"sqlmain.h"
+
+1511871662 g:\vsprojects\tinydata\include\rogex.h
+	<string>
+	<vector>
+
+1511954468 source:g:\vsprojects\tinydata\src\sqlmain.cpp
+	<regex>
+	<string>
+	<iostream>
+	"item.h"
+	"tiny.h"
+	"util.h"
+	"view.h"
+	"index.h"
+	"rogex.h"
+	"control.h"
+	"sqlmain.h"
+	"optimize.h"
+
+1509345213 source:g:\vsprojects\tinydata\src\filed.cpp
+	"Filed.h"
+	<iostream>
+	<fstream>
+
+1509345287 g:\vsprojects\tinydata\include\filed.h
+	<string>
+
+1511940674 source:g:\vsprojects\tinydata\src\field.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<typeinfo>
+	"field.h"
+
+1510981983 g:\vsprojects\tinydata\include\field.h
+	<string>
+
+1511590760 source:g:\vsprojects\tinydata\src\user.cpp
+	<cstring>
+	"user.h"
+
+1511589540 g:\vsprojects\tinydata\include\user.h
+	<string>
+
+1511956805 source:g:\vsprojects\tinydata\src\control.cpp
+	<fstream>
+	<iostream>
+	<iomanip>
+	<conio.h>
+	"control.h"
+
+1511592375 g:\vsprojects\tinydata\include\control.h
+	<vector>
+	<string>
+	"user.h"
+
+1511592187 g:\vsprojects\tinydata\include\tiny.h
+	<string>
+
+1511592274 source:g:\vsprojects\tinydata\src\tiny.cpp
+	<iostream>
+	<fstream>
+	<direct.h>
+	"tiny.h"
+	"sqlmain.h"
+
+1511695429 g:\vsprojects\tinydata\include\view.h
+	<string>
+
+1511861773 source:g:\vsprojects\tinydata\src\view.cpp
+	<fstream>
+	<iomanip>
+	<iostream>
+	"view.h"
+
+1511866953 source:g:\vsprojects\tinydata\src\index.cpp
+	<fstream>
+	<iostream>
+	"index.h"
+
+1511863001 g:\vsprojects\tinydata\include\index.h
+	<string>
+	<vector>
+
+1511918016 source:g:\vsprojects\tinydata\src\item.cpp
+	"item.h"
+
+1511918016 g:\vsprojects\tinydata\include\item.h
+	<string>
+
+1511940776 source:g:\vsprojects\tinydata\src\optimize.cpp
+	<regex>
+	<vector>
+	<fstream>
+	<iomanip>
+	<iostream>
+	"util.h"
+	"field.h"
+	"rogex.h"
+	"sqlmain.h"
+	"optimize.h"
+
+1511918645 g:\vsprojects\tinydata\include\optimize.h
+	<string>
+	<vector>
+	"item.h"
+

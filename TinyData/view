@@ -1,0 +1,4 @@
+view_name :SELECT column_name(s) FROM table_name WHERE condition
+view_name :SELECT column_name(s) FROM table_name WHERE condition
+ha :SELECT column_name(s) FROM table_name WHERE condition
+stuView :select id(s) from student where id = 1
